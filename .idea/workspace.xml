@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7e235b72-3bde-467c-9af4-20cefebe9f0b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InkReaders/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/InkReaders/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InkReaders/author.html" beforeDir="false" afterPath="$PROJECT_DIR$/InkReaders/author.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InkReaders/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/InkReaders/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InkReaders/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/InkReaders/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InkReaders/privacy.html" beforeDir="false" afterPath="$PROJECT_DIR$/InkReaders/privacy.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1iW36xanE6UzV1qSgqOeWrI7CGw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/InkReaders" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mcgowan\WebstormProjects\InkReaders\InkReaders" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e235b72-3bde-467c-9af4-20cefebe9f0b" name="Default Changelist" comment="" />
+      <created>1602009348887</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602009348887</updated>
+      <workItem from="1602009350055" duration="2735000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="837" y="-717" key="Github.ShareDialog" timestamp="1602009442443">
+      <screen x="0" y="-1200" width="1920" height="1170" />
+    </state>
+    <state x="837" y="-717" key="Github.ShareDialog/0.0.1536.834/0.-1200.1920.1170@0.-1200.1920.1170" timestamp="1602009442443" />
+    <state x="746" y="-910" key="Github.UntrackedFilesDialog" timestamp="1602009455689">
+      <screen x="0" y="-1200" width="1920" height="1170" />
+    </state>
+    <state x="746" y="-910" key="Github.UntrackedFilesDialog/0.0.1536.834/0.-1200.1920.1170@0.-1200.1920.1170" timestamp="1602009455689" />
+  </component>
+</project>
