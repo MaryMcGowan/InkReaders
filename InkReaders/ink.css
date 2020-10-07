@@ -26,18 +26,6 @@ input[type="submit"] {
     margin-left: 12em;
 }
 
-td {
-    padding: 0.5em;
-    border: 1px #3399CC solid;
-    text-align: center;
-
-}
-
-th {
-    padding: 0.5em;
-    border: 1px #3399CC solid;
-}
-
 
 #wrapper {
     width: 80%;
@@ -47,7 +35,6 @@ th {
     background-color: #FFFFFF;
     min-width: 960px;
     max-width: 2048px;
-    box-shadow: 3px 3px 3px #333333;
     border-width: 1px;
     border-color: #FFFFFF;
     background-image: linear-gradient(to bottom, #FFFFFF, #ECDFD1);
@@ -55,19 +42,12 @@ th {
 }
 
 #contact {
-    font-size: 90%;
+    font-size: 110%;
 }
 
 video, embed, video a {
     float: right;
     padding-left: 20px;
-}
-
-figure {
-    position: absolute;
-    left: 280px;
-    text-align: center;
-    opacity: .25;
 }
 
 header {
@@ -80,8 +60,7 @@ header {
 }
 
 h1 {
-    margin-bottom: 0;
-    margin-top: 0;
+    margin: 0;
     font-size: 3em;
     font-family: Georgia, "Times New Roman", serif;
     letter-spacing: 0.25em;
@@ -139,31 +118,8 @@ main {
     margin-left: 190px;
     padding-left: 30px;
     background-color: #FFFFFF;
-
 }
 
-figure {
-    display: block;
-    position: absolute;
-    left: 280px;
-    text-align: center;
-}
-
-figcaption {
-    display: block;
-}
-
-aside {
-    display: block;
-}
-
-article {
-    display: block;
-}
-
-section {
-    display: block;
-}
 
 #mobile {
     display: none;
@@ -248,8 +204,7 @@ nav a {
     transition: color 3s ease-out;
 }
 
-
-footer {
+#container{
     background-color: #FFFFFF;
     font-family: Georgia, "Times New Roman", serif;
     text-align: center;
@@ -257,10 +212,11 @@ footer {
     font-style: italic;
     padding: 20px;
     display: block;
-    margin-left: 190px;
+    margin-left: auto;
     float: bottom;
     clear: both;
 }
+
 
 @media only screen and (max-width: 64em) {
     body {
@@ -277,9 +233,9 @@ footer {
     }
 
     header {
-        padding-top: 1px;
+        padding-top: 0.5em;
         padding-bottom: 0.5em;
-        height: auto;
+        height: 100px;
     }
 
     main {
@@ -324,17 +280,15 @@ footer {
         margin: 0;
     }
 
+    #contacthero {
+        height: 200px;
+        margin: 0;
+    }
+
 
     @media only screen and (max-width: 37.5em) {
         h1 {
             font-size: 2em;
-        }
-
-        header {
-            padding-top: 10px;
-            padding-bottom: 0.5em;
-            height: auto;
-
         }
 
         main {
@@ -361,7 +315,6 @@ footer {
         nav li {
             display: block;
             margin: 0;
-            border: 2px solid #330000;
         }
 
 
@@ -385,9 +338,9 @@ footer {
             height: 0;
         }
 
-        footer {
-            padding: 0.5em;
-            margin: 0;
+        #contacthero {
+            background-image: none;
+            height: 0;
         }
 
         #mobile {
@@ -402,8 +355,6 @@ footer {
             float: none;
         }
 
-        #gallery {
-            width: 96%;
-        }
+
     }
 }
